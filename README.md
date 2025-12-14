@@ -1,32 +1,55 @@
 # 🌞 Solar Panel Cleaning Robot
 
-## 📌 Project Overview
-The Solar Panel Cleaning Robot is an automated system designed to clean solar panels efficiently without manual intervention. Dust accumulation reduces solar efficiency, and this project helps maintain optimal performance.
+## 📌 Overview
+The Solar Panel Cleaning Robot is an automated system designed to clean dust and debris from solar panels without manual intervention. Accumulated dust significantly reduces energy output; this solution improves efficiency while reducing maintenance cost and human effort.
+
+---
 
 ## 🎯 Objectives
-- Reduce manual effort
-- Improve solar panel efficiency
-- Automate cleaning process
-- Cost-effective solution
+- Increase solar panel efficiency
+- Reduce manual cleaning and labor cost
+- Enable safe and automated operation
+- Design a cost-effective and scalable solution
 
-## ⚙️ System Description
-The robot moves over the solar panel surface using programmed control logic and mechanical components to remove dust safely without damaging the panels.
+---
 
-## 🛠️ Technologies Used
-- Robotics & Automation
-- Embedded Programming Logic
-- Mechanical Design
-- Sensors & Motor Control
+## ⚙️ System Architecture
+The robot operates using programmed control logic and mechanical components to move smoothly across the solar panel surface. It integrates motors, sensors, and a cleaning mechanism to ensure effective dust removal without damaging the panel surface.
 
-## 👨‍💻 My Role
-- Designed automation logic
-- Assisted in mechanical planning
-- Testing and optimization
+---
+
+## 🛠️ Technologies & Tools
+- Robotics & Automation  
+- Embedded Programming Logic  
+- Mechanical Design  
+- Sensors & Motor Control  
+- Arduino (conceptual implementation)
+
+---
+
+## 🔑 Key Features
+- Automated cleaning mechanism  
+- Low maintenance and energy efficient  
+- Reduces water usage  
+- Improves panel lifespan and output  
+
+---
+
+## 👨‍💻 Role & Responsibilities
+- Designed automation and control logic  
+- Contributed to mechanical structure planning  
+- Integrated system components  
+- Performed testing and performance optimization  
+
+---
 
 ## 🚀 Future Enhancements
-- IoT monitoring
-- Solar self-charging
-- AI-based dust detection
+- IoT-based remote monitoring  
+- Solar-powered self-charging system  
+- AI-based dust detection  
+- Fully autonomous navigation  
 
-## 📂 Project Type
-Academic / Final Year Project
+---
+
+## 📂 Project Category
+Final Year Academic Engineering Project
